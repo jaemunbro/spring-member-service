@@ -1,2 +1,2 @@
 # spring-study
-creating member service for practice
+creating member service with spring framework for practice 
